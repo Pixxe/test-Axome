@@ -14,7 +14,7 @@
 
 <body class="bg-dark text-light">
 <h1 class="text-center">Test BOMBRUN Nicolas Axome</h1>
-<form action="formulaire.php" method="post">
+<form action="traitement.php" method="post">
     <div class="container">
         <div class="mb-3">
             <label for="user_name" class="form-label">Utilisateur gitHub</label>
